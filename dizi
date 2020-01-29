@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <stdlib.h>
+//#define MAX 15
+
+/*
+int main()
+{
+    int i;                                  //  0 dan n (girilen sayiya kadar) karesi alma
+    int n;
+    printf("sayi:");         scanf("%d",&n);
+    int kareler[n];
+    for(i=0;i<n;i++)
+    {
+        kareler[i]=i*i;
+        printf("%2d  %10d \n",i,kareler[i]);
+    }
+     return 0;
+}
